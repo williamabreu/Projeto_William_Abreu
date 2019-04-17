@@ -8,3 +8,6 @@ class D:
     
     def MD2(self):
         pass
+    
+    def MD3(self):
+        print('MD3')
